@@ -1,0 +1,24 @@
+main{
+    overflow: hidden;
+}
+* {
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+p {
+    color:var(--grayish-gray);
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+}
+
+
+h2{
+    font-size: 2.625rem
+}
+
+h3 {
+    color:var(--grayish-gray)
+}
